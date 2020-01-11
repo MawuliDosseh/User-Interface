@@ -65,18 +65,49 @@ h1, h2, h3, h4, h5 {
 
 /* Your code starts here! */
 
+* {
+	box-sizing: border-box;
+	border: 20px;
 
-.nav a {
-	margin: 0 10px;
-	border: 1px solid black;
-	padding: 20px;
-	display: inline-block;
-	border-radius: 20px;
-	color : white;
-	text-decoration: none;
-	margin-bottom: 20px;
-	background: #F87B99;
 }
-.img{
 
+.middle-img{
+display: inline-block;
+margin-right: 50px;
+
+
+
+}
+h1{
+	font-family: bangers , cursive;
+	letter-spacing: 1px;
+	margin: 65px;
+	text-align: center;
+}
+.logo{
+	display: inline-block;
+margin-right: 80px;
+text-align: center;
+padding: 20px;
+}
+h2{
+	margin: 15px;
+	padding: 10px;
+	font-size: 20px;
+}
+p{
+	margin:20px;
+	padding: 10px;
+}
+.nav a{
+	margin:20px;
+	padding: 20px;
+	font-size: 30px;
+	text-align: center;
+}
+.img/header-img.png{
+	display: inline-block;
+	margin: 80px;
+	padding-left: 10px;
+	width: 50%;
 }
