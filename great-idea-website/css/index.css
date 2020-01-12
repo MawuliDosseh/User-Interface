@@ -68,6 +68,7 @@ h1, h2, h3, h4, h5 {
 
 .container1 {
 	border: 2px solid red;
+
 }
 
 nav {
@@ -110,10 +111,10 @@ nav a{
 
 .h1h2{
 	border:2px solid blue;
-	width: 55%;
+	width: 50%;
 	display: inline-block;
 	margin: 15px;
-	padding-top: 12%;
+	padding-top: 10%;
 }
 
 h1{
@@ -135,10 +136,6 @@ h2{
 
 
 
-
-
-
-
 .headerimg{
 	border: 2px solid red;
 	width: 35%;
@@ -153,61 +150,68 @@ h2{
 }
 
 	
-
-
-
-/* .container2 {
-	border: 2px solid orange;
-}
-.container3 {
+.h3ph4p{
 	border: 2px solid green;
-} */
-
-/* * {
-	box-sizing: border-box;
-	border: 20px;
 
 }
 
-.middle-img{
-display: inline-block;
-margin-right: 50px;
-
-
-
-}
-h1{
-	font-family: bangers , cursive;
-	letter-spacing: 1px;
-	margin: 65px;
-	text-align: center;
-}
-.logo{
-	display: inline-block;
-margin-right: 80px;
-text-align: center;
-padding: 20px;
-}
-h2{
+.h3p{
+	border: 2px solid blue;
+	width: 45%;
 	margin: 15px;
-	padding: 10px;
-	font-size: 20px;
-}
-p{
-	margin:20px;
-	padding: 10px;
-}
-.nav a{
-	margin:20px;
-	padding: 20px;
-	font-size: 30px;
-	text-align: center;
-	border:1px solid;
+	display: inline-block;
+
+
+
 }
 
-img{
+
+.h4p{
+	border: 2px solid orangered;
+	width: 45%;
+	margin: 15px;
 	display: inline-block;
-	margin: 80px;
-	padding-left: 10px;
-	width: 50%;
-} */
+}
+
+
+
+.middleimg{
+
+	border: 2px solid black;
+	width: 90%;
+	display: inline-block;
+}
+
+
+.h4p1h4p2h4p3{
+	border: 2px solid blue;
+
+}
+.h4p1{
+	border: 2px solid orangered;
+	width: 30%;
+	display:inline-block;
+	margin: 15px;
+}
+.h4p2{
+	border: 2px solid black;
+	width: 30%;
+	display: inline-block;
+}
+.h4p3{
+	border: 2px solid green;
+	display: inline-block;
+	width: 30%;
+
+}
+.h5p5{
+	border: 2px solid black;
+}
+h5{
+	margin: 15px;
+}
+h6{
+	margin: 15px;
+
+text-align: center;
+}
