@@ -65,7 +65,105 @@ h1, h2, h3, h4, h5 {
 
 /* Your code starts here! */
 
-* {
+
+.container1 {
+	border: 2px solid red;
+}
+
+nav {
+	border: 2px solid green;
+	width: 60%;
+	padding: 2%;
+	margin: 15px;
+	display: inline-block;
+}
+
+
+
+.logobox {
+	border: 2px solid blue;
+	width: 30%;
+	display: inline-block;
+
+
+}
+
+nav a{
+	color: gray;
+	margin: 50px;
+	text-decoration: none;
+	
+}
+
+.logobox img{
+	
+}
+
+
+
+.container2{
+	border: 2px solid orange;
+	min-height: botum;
+
+}
+
+
+.h1h2{
+	border:2px solid blue;
+	width: 55%;
+	display: inline-block;
+	margin: 15px;
+	padding-top: 12%;
+}
+
+h1{
+	border: 2px solid green;
+	padding: 20%;
+	text-align: center;
+	font-size: 48px;
+
+
+}
+
+h2{
+	border :2px solid  orange;
+	padding: 5%;
+	text-align: center;
+	font-size: 48px;
+
+}
+
+
+
+
+
+
+
+.headerimg{
+	border: 2px solid red;
+	width: 35%;
+	display: inline-block;
+
+}
+
+.container3{
+	border: 2px solid red;
+	
+
+}
+
+	
+
+
+
+/* .container2 {
+	border: 2px solid orange;
+}
+.container3 {
+	border: 2px solid green;
+} */
+
+/* * {
 	box-sizing: border-box;
 	border: 20px;
 
@@ -104,10 +202,12 @@ p{
 	padding: 20px;
 	font-size: 30px;
 	text-align: center;
+	border:1px solid;
 }
-.img/header-img.png{
+
+img{
 	display: inline-block;
 	margin: 80px;
 	padding-left: 10px;
 	width: 50%;
-}
+} */
